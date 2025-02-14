@@ -13,6 +13,6 @@ defmodule ElixirProject do
 
   """
   def hello do
-    :world
+    IO.puts("Hello, Elixir!")
   end
 end
